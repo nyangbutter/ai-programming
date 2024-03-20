@@ -91,7 +91,7 @@ else:
 
 #3.13
 x,y=map(int,input('점의 좌표 x,y를 입력하시오:').split())
-if (-10<=x<=10) and (-10<=y<=10):
+if (-7<=x<=13) and (-6<=y<=14):
     print('원의 내부에 있음')
 else:
     print('원의 외부에 있음')
